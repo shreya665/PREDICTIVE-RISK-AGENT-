@@ -10,7 +10,7 @@ Recommend: Suggest interventions like mentoring, training, or task redistributio
 Notify: Trigger alerts via UI, Slack, or email for rapid action
 The frontend dashboard visualizes the results and recommendations in a user-friendly way, helping HR managers or project leads act immediately.
 
-Impact Statement- 
+IMPACT STATEMENT - 
 
 By proactively identifying risk patterns in workforce or project metrics, this agent helps organizations:
 Reduce costly employee churn
